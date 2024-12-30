@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:enableOnBackInvokedCallback="true"
-        android:label="margintop_solutions"
+        android:label="Shop App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
